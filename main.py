@@ -1,2 +1,2 @@
-print("Hi Kilsup Lee~")
-print("Hi Gildong Hong~")
+print("Hi I'm gaaaani")
+print("Hi ~~~~ ")
