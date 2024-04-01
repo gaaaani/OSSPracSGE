@@ -1,2 +1,1 @@
-print("Hi I'm gaaaani")
-print("Hi ~~~~ ")
+print('hello world')
