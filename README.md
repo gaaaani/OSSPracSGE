@@ -3,13 +3,16 @@
 
 [OSS실습 전자책 바로가기](https://wikidocs.net/book/13835)
 
-my class : ossprac
-my name : gaeun seo
-date : 27 mar, 2024
+- my class : ossprac 
+- my name : gaeun seo 
+- date : 27 mar, 2024 
 
 # ossprac
-fetch & merge
-A
-B
-C
-D
+fetch & merge  
+A  
+B  
+C  
+D  
+E  
+F  
+G  
