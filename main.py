@@ -1,2 +1,5 @@
-print('hello world sge')
-print('실습2 : 복수 branch')
+print('hello world')  
+name='gdhong'  
+print(f'I\'m GD Hong!')  
+programming_language='Python'  
+print('Most used language is {0}'.format(py))
