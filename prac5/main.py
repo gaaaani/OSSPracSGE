@@ -1,6 +1,8 @@
+<<<<<<< HEAD
 ## this is main branck
-print("hello sge!")
-print("0403")
-
 name =  input("name : " )
+<<<<<<< HEAD
 print("welcome " + name + "!")
+=======
+
+
