@@ -5,7 +5,7 @@
 
 - my class : ossprac 
 - my name : gaeun seo 
-- date : 27 mar, 2024 
+- date : 3 Apr, 2024 
 
 # ossprac
 fetch & merge  
@@ -16,3 +16,4 @@ D
 E  
 F  
 G  
+
